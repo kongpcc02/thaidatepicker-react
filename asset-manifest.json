@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/thaidatepicker-react/static/css/main.3f089010.chunk.css",
-    "main.js": "/thaidatepicker-react/static/js/main.00af15a8.chunk.js",
-    "main.js.map": "/thaidatepicker-react/static/js/main.00af15a8.chunk.js.map",
-    "runtime-main.js": "/thaidatepicker-react/static/js/runtime-main.22f9dcbf.js",
-    "runtime-main.js.map": "/thaidatepicker-react/static/js/runtime-main.22f9dcbf.js.map",
-    "static/css/2.b90ce945.chunk.css": "/thaidatepicker-react/static/css/2.b90ce945.chunk.css",
-    "static/js/2.5dddd8ef.chunk.js": "/thaidatepicker-react/static/js/2.5dddd8ef.chunk.js",
-    "static/js/2.5dddd8ef.chunk.js.map": "/thaidatepicker-react/static/js/2.5dddd8ef.chunk.js.map",
+    "main.css": "/thaidatepicker-react/static/css/main.2d240f3e.chunk.css",
+    "main.js": "/thaidatepicker-react/static/js/main.3a0a5854.chunk.js",
+    "main.js.map": "/thaidatepicker-react/static/js/main.3a0a5854.chunk.js.map",
+    "runtime-main.js": "/thaidatepicker-react/static/js/runtime-main.7b912cf5.js",
+    "runtime-main.js.map": "/thaidatepicker-react/static/js/runtime-main.7b912cf5.js.map",
+    "static/css/2.2fcc0a28.chunk.css": "/thaidatepicker-react/static/css/2.2fcc0a28.chunk.css",
+    "static/js/2.e147eeea.chunk.js": "/thaidatepicker-react/static/js/2.e147eeea.chunk.js",
+    "static/js/2.e147eeea.chunk.js.map": "/thaidatepicker-react/static/js/2.e147eeea.chunk.js.map",
     "index.html": "/thaidatepicker-react/index.html",
-    "precache-manifest.706affd10d15dc53c3b8f07e899260e2.js": "/thaidatepicker-react/precache-manifest.706affd10d15dc53c3b8f07e899260e2.js",
-    "service-worker.js": "/thaidatepicker-react/service-worker.js",
-    "static/css/2.b90ce945.chunk.css.map": "/thaidatepicker-react/static/css/2.b90ce945.chunk.css.map",
-    "static/css/main.3f089010.chunk.css.map": "/thaidatepicker-react/static/css/main.3f089010.chunk.css.map",
-    "static/js/2.5dddd8ef.chunk.js.LICENSE.txt": "/thaidatepicker-react/static/js/2.5dddd8ef.chunk.js.LICENSE.txt"
+    "static/css/2.2fcc0a28.chunk.css.map": "/thaidatepicker-react/static/css/2.2fcc0a28.chunk.css.map",
+    "static/css/main.2d240f3e.chunk.css.map": "/thaidatepicker-react/static/css/main.2d240f3e.chunk.css.map",
+    "static/js/2.e147eeea.chunk.js.LICENSE.txt": "/thaidatepicker-react/static/js/2.e147eeea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.22f9dcbf.js",
-    "static/css/2.b90ce945.chunk.css",
-    "static/js/2.5dddd8ef.chunk.js",
-    "static/css/main.3f089010.chunk.css",
-    "static/js/main.00af15a8.chunk.js"
+    "static/js/runtime-main.7b912cf5.js",
+    "static/css/2.2fcc0a28.chunk.css",
+    "static/js/2.e147eeea.chunk.js",
+    "static/css/main.2d240f3e.chunk.css",
+    "static/js/main.3a0a5854.chunk.js"
   ]
 }
